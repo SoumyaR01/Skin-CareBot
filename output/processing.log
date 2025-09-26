@@ -1,0 +1,811 @@
+2025-09-13 21:07:02,689 - INFO - Starting PDF processing.
+2025-09-13 21:07:04,515 - INFO - Loaded 119 pages from PDF.
+2025-09-13 21:07:04,529 - INFO - Split into 119 chunks.
+2025-09-13 21:07:04,983 - INFO - Saved 119 PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-13 21:07:21,290 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-13 21:07:29,743 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-13 21:09:51,327 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-13 21:09:58,984 - INFO - Initialized HuggingFace embeddings.
+2025-09-13 21:10:03,323 - INFO - Loading faiss with AVX2 support.
+2025-09-13 21:10:03,652 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-13 21:10:03,680 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
+2025-09-13 21:50:07,350 - INFO - Starting PDF processing.
+2025-09-13 21:50:09,047 - INFO - Loaded 119 pages from PDF.
+2025-09-13 21:50:09,059 - INFO - Split into 119 chunks.
+2025-09-13 21:50:09,468 - INFO - Saved 119 PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-13 21:50:15,410 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-13 21:50:23,692 - INFO - Initialized HuggingFace embeddings.
+2025-09-13 21:50:27,727 - INFO - Loading faiss with AVX2 support.
+2025-09-13 21:50:27,761 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-13 21:50:27,790 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
+2025-09-13 21:55:14,339 - INFO - Starting PDF processing.
+2025-09-13 21:55:16,098 - INFO - Loaded 119 pages from PDF.
+2025-09-13 21:55:16,108 - INFO - Split into 119 chunks.
+2025-09-13 21:55:16,508 - INFO - Saved 119 PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-13 21:55:22,296 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-13 21:55:30,449 - INFO - Initialized HuggingFace embeddings.
+2025-09-13 21:55:34,614 - INFO - Loading faiss with AVX2 support.
+2025-09-13 21:55:34,650 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-13 21:55:34,678 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
+2025-09-13 23:34:36,532 - INFO - Starting PDF processing.
+2025-09-13 23:34:38,313 - INFO - Extracted image 0 from page 13 with OCR text length 0
+2025-09-13 23:34:38,586 - INFO - Extracted image 0 from page 14 with OCR text length 0
+2025-09-13 23:34:38,867 - INFO - Extracted image 1 from page 14 with OCR text length 0
+2025-09-13 23:34:39,168 - INFO - Extracted image 0 from page 21 with OCR text length 0
+2025-09-13 23:34:39,614 - INFO - Extracted image 1 from page 21 with OCR text length 0
+2025-09-13 23:34:39,925 - INFO - Extracted image 2 from page 21 with OCR text length 0
+2025-09-13 23:34:40,148 - INFO - Extracted image 0 from page 26 with OCR text length 0
+2025-09-13 23:34:40,484 - INFO - Extracted image 1 from page 26 with OCR text length 0
+2025-09-13 23:34:40,819 - INFO - Extracted image 2 from page 26 with OCR text length 0
+2025-09-13 23:34:41,118 - INFO - Extracted image 0 from page 32 with OCR text length 0
+2025-09-13 23:34:41,472 - INFO - Extracted image 1 from page 32 with OCR text length 0
+2025-09-13 23:34:41,855 - INFO - Extracted image 2 from page 32 with OCR text length 0
+2025-09-13 23:34:42,193 - INFO - Extracted image 3 from page 32 with OCR text length 0
+2025-09-13 23:34:42,489 - INFO - Extracted image 0 from page 33 with OCR text length 0
+2025-09-13 23:34:42,726 - INFO - Extracted image 1 from page 33 with OCR text length 0
+2025-09-13 23:34:42,965 - INFO - Extracted image 0 from page 34 with OCR text length 0
+2025-09-13 23:34:43,253 - INFO - Extracted image 0 from page 35 with OCR text length 3
+2025-09-13 23:34:43,595 - INFO - Extracted image 0 from page 36 with OCR text length 0
+2025-09-13 23:34:43,925 - INFO - Extracted image 1 from page 36 with OCR text length 0
+2025-09-13 23:34:44,263 - INFO - Extracted image 0 from page 45 with OCR text length 0
+2025-09-13 23:34:44,576 - INFO - Extracted image 0 from page 50 with OCR text length 0
+2025-09-13 23:34:44,836 - INFO - Extracted image 0 from page 53 with OCR text length 0
+2025-09-13 23:34:45,179 - INFO - Extracted image 1 from page 53 with OCR text length 8
+2025-09-13 23:34:45,440 - INFO - Extracted image 0 from page 54 with OCR text length 0
+2025-09-13 23:34:45,779 - INFO - Extracted image 0 from page 58 with OCR text length 0
+2025-09-13 23:34:46,063 - INFO - Extracted image 1 from page 58 with OCR text length 0
+2025-09-13 23:34:46,327 - INFO - Extracted image 0 from page 59 with OCR text length 0
+2025-09-13 23:34:46,762 - INFO - Extracted image 1 from page 59 with OCR text length 0
+2025-09-13 23:34:47,069 - INFO - Extracted image 0 from page 62 with OCR text length 0
+2025-09-13 23:34:47,394 - INFO - Extracted image 0 from page 63 with OCR text length 0
+2025-09-13 23:34:47,765 - INFO - Extracted image 0 from page 64 with OCR text length 0
+2025-09-13 23:34:48,068 - INFO - Extracted image 0 from page 68 with OCR text length 0
+2025-09-13 23:34:48,372 - INFO - Extracted image 1 from page 68 with OCR text length 0
+2025-09-13 23:34:48,607 - INFO - Extracted image 0 from page 74 with OCR text length 0
+2025-09-13 23:34:49,131 - INFO - Extracted image 0 from page 75 with OCR text length 608
+2025-09-13 23:34:49,471 - INFO - Extracted image 0 from page 77 with OCR text length 0
+2025-09-13 23:34:49,735 - INFO - Extracted image 1 from page 77 with OCR text length 0
+2025-09-13 23:34:50,106 - INFO - Extracted image 0 from page 79 with OCR text length 0
+2025-09-13 23:34:50,321 - INFO - Extracted image 0 from page 82 with OCR text length 0
+2025-09-13 23:34:50,533 - INFO - Extracted image 0 from page 83 with OCR text length 0
+2025-09-13 23:34:50,843 - INFO - Extracted image 0 from page 88 with OCR text length 0
+2025-09-13 23:34:51,129 - INFO - Extracted image 1 from page 88 with OCR text length 0
+2025-09-13 23:34:51,479 - INFO - Extracted image 2 from page 88 with OCR text length 0
+2025-09-13 23:34:51,780 - INFO - Extracted image 0 from page 89 with OCR text length 0
+2025-09-13 23:34:52,110 - INFO - Extracted image 1 from page 89 with OCR text length 0
+2025-09-13 23:34:52,365 - INFO - Extracted image 2 from page 89 with OCR text length 0
+2025-09-13 23:34:52,674 - INFO - Extracted image 0 from page 90 with OCR text length 0
+2025-09-13 23:34:52,981 - INFO - Extracted image 1 from page 90 with OCR text length 0
+2025-09-13 23:34:53,403 - INFO - Extracted image 2 from page 90 with OCR text length 0
+2025-09-13 23:34:53,660 - INFO - Extracted image 0 from page 91 with OCR text length 0
+2025-09-13 23:34:53,962 - INFO - Extracted image 1 from page 91 with OCR text length 0
+2025-09-13 23:34:54,205 - INFO - Extracted image 2 from page 91 with OCR text length 0
+2025-09-13 23:34:54,566 - INFO - Extracted image 0 from page 97 with OCR text length 0
+2025-09-13 23:34:54,991 - INFO - Extracted image 1 from page 97 with OCR text length 0
+2025-09-13 23:34:55,335 - INFO - Extracted image 0 from page 102 with OCR text length 0
+2025-09-13 23:34:55,612 - INFO - Extracted image 1 from page 102 with OCR text length 0
+2025-09-13 23:34:55,858 - INFO - Extracted image 0 from page 103 with OCR text length 0
+2025-09-13 23:34:56,149 - INFO - Extracted image 0 from page 104 with OCR text length 0
+2025-09-13 23:34:56,394 - INFO - Extracted image 1 from page 104 with OCR text length 0
+2025-09-13 23:34:56,761 - INFO - Extracted image 0 from page 105 with OCR text length 0
+2025-09-13 23:34:57,166 - INFO - Extracted image 1 from page 105 with OCR text length 0
+2025-09-13 23:34:57,419 - INFO - Extracted image 0 from page 106 with OCR text length 0
+2025-09-13 23:34:57,692 - INFO - Extracted image 0 from page 111 with OCR text length 0
+2025-09-13 23:34:58,032 - INFO - Extracted image 0 from page 112 with OCR text length 0
+2025-09-13 23:34:58,302 - INFO - Extracted image 0 from page 113 with OCR text length 0
+2025-09-13 23:34:58,317 - INFO - Extracted 65 images with OCR.
+2025-09-13 23:35:00,086 - INFO - Loaded 119 pages from PDF.
+2025-09-13 23:35:00,095 - INFO - Split into 119 text chunks.
+2025-09-13 23:35:00,095 - INFO - Enriched 119 chunks with OCR and image metadata.
+2025-09-13 23:35:00,101 - INFO - Saved PDF chunk 1 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_1.pdf
+2025-09-13 23:35:00,105 - INFO - Saved PDF chunk 2 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_2.pdf
+2025-09-13 23:35:00,108 - INFO - Saved PDF chunk 3 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_3.pdf
+2025-09-13 23:35:00,111 - INFO - Saved PDF chunk 4 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_4.pdf
+2025-09-13 23:35:00,116 - INFO - Saved PDF chunk 5 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_5.pdf
+2025-09-13 23:35:00,119 - INFO - Saved PDF chunk 6 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_6.pdf
+2025-09-13 23:35:00,123 - INFO - Saved PDF chunk 7 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_7.pdf
+2025-09-13 23:35:00,126 - INFO - Saved PDF chunk 8 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_8.pdf
+2025-09-13 23:35:00,129 - INFO - Saved PDF chunk 9 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_9.pdf
+2025-09-13 23:35:00,133 - INFO - Saved PDF chunk 10 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_10.pdf
+2025-09-13 23:35:00,137 - INFO - Saved PDF chunk 11 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_11.pdf
+2025-09-13 23:35:00,140 - INFO - Saved PDF chunk 12 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_12.pdf
+2025-09-13 23:35:00,144 - INFO - Saved PDF chunk 13 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_13.pdf
+2025-09-13 23:35:00,146 - INFO - Saved PDF chunk 14 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_14.pdf
+2025-09-13 23:35:00,149 - INFO - Saved PDF chunk 15 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_15.pdf
+2025-09-13 23:35:00,151 - INFO - Saved PDF chunk 16 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_16.pdf
+2025-09-13 23:35:00,155 - INFO - Saved PDF chunk 17 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_17.pdf
+2025-09-13 23:35:00,158 - INFO - Saved PDF chunk 18 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_18.pdf
+2025-09-13 23:35:00,161 - INFO - Saved PDF chunk 19 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_19.pdf
+2025-09-13 23:35:00,165 - INFO - Saved PDF chunk 20 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_20.pdf
+2025-09-13 23:35:00,169 - INFO - Saved PDF chunk 21 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_21.pdf
+2025-09-13 23:35:00,171 - INFO - Saved PDF chunk 22 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_22.pdf
+2025-09-13 23:35:00,175 - INFO - Saved PDF chunk 23 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_23.pdf
+2025-09-13 23:35:00,179 - INFO - Saved PDF chunk 24 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_24.pdf
+2025-09-13 23:35:00,182 - INFO - Saved PDF chunk 25 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_25.pdf
+2025-09-13 23:35:00,186 - INFO - Saved PDF chunk 26 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_26.pdf
+2025-09-13 23:35:00,188 - INFO - Saved PDF chunk 27 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_27.pdf
+2025-09-13 23:35:00,191 - INFO - Saved PDF chunk 28 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_28.pdf
+2025-09-13 23:35:00,195 - INFO - Saved PDF chunk 29 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_29.pdf
+2025-09-13 23:35:00,199 - INFO - Saved PDF chunk 30 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_30.pdf
+2025-09-13 23:35:00,202 - INFO - Saved PDF chunk 31 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_31.pdf
+2025-09-13 23:35:00,206 - INFO - Saved PDF chunk 32 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_32.pdf
+2025-09-13 23:35:00,209 - INFO - Saved PDF chunk 33 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_33.pdf
+2025-09-13 23:35:00,211 - INFO - Saved PDF chunk 34 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_34.pdf
+2025-09-13 23:35:00,213 - INFO - Saved PDF chunk 35 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_35.pdf
+2025-09-13 23:35:00,216 - INFO - Saved PDF chunk 36 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_36.pdf
+2025-09-13 23:35:00,219 - INFO - Saved PDF chunk 37 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_37.pdf
+2025-09-13 23:35:00,223 - INFO - Saved PDF chunk 38 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_38.pdf
+2025-09-13 23:35:00,226 - INFO - Saved PDF chunk 39 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_39.pdf
+2025-09-13 23:35:00,229 - INFO - Saved PDF chunk 40 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_40.pdf
+2025-09-13 23:35:00,233 - INFO - Saved PDF chunk 41 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_41.pdf
+2025-09-13 23:35:00,237 - INFO - Saved PDF chunk 42 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_42.pdf
+2025-09-13 23:35:00,240 - INFO - Saved PDF chunk 43 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_43.pdf
+2025-09-13 23:35:00,244 - INFO - Saved PDF chunk 44 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_44.pdf
+2025-09-13 23:35:00,247 - INFO - Saved PDF chunk 45 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_45.pdf
+2025-09-13 23:35:00,250 - INFO - Saved PDF chunk 46 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_46.pdf
+2025-09-13 23:35:00,253 - INFO - Saved PDF chunk 47 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_47.pdf
+2025-09-13 23:35:00,257 - INFO - Saved PDF chunk 48 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_48.pdf
+2025-09-13 23:35:00,261 - INFO - Saved PDF chunk 49 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_49.pdf
+2025-09-13 23:35:00,264 - INFO - Saved PDF chunk 50 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_50.pdf
+2025-09-13 23:35:00,267 - INFO - Saved PDF chunk 51 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_51.pdf
+2025-09-13 23:35:00,270 - INFO - Saved PDF chunk 52 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_52.pdf
+2025-09-13 23:35:00,274 - INFO - Saved PDF chunk 53 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_53.pdf
+2025-09-13 23:35:00,277 - INFO - Saved PDF chunk 54 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_54.pdf
+2025-09-13 23:35:00,280 - INFO - Saved PDF chunk 55 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_55.pdf
+2025-09-13 23:35:00,284 - INFO - Saved PDF chunk 56 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_56.pdf
+2025-09-13 23:35:00,287 - INFO - Saved PDF chunk 57 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_57.pdf
+2025-09-13 23:35:00,290 - INFO - Saved PDF chunk 58 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_58.pdf
+2025-09-13 23:35:00,292 - INFO - Saved PDF chunk 59 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_59.pdf
+2025-09-13 23:35:00,296 - INFO - Saved PDF chunk 60 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_60.pdf
+2025-09-13 23:35:00,299 - INFO - Saved PDF chunk 61 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_61.pdf
+2025-09-13 23:35:00,302 - INFO - Saved PDF chunk 62 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_62.pdf
+2025-09-13 23:35:00,305 - INFO - Saved PDF chunk 63 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_63.pdf
+2025-09-13 23:35:00,308 - INFO - Saved PDF chunk 64 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_64.pdf
+2025-09-13 23:35:00,310 - INFO - Saved PDF chunk 65 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_65.pdf
+2025-09-13 23:35:00,313 - INFO - Saved PDF chunk 66 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_66.pdf
+2025-09-13 23:35:00,317 - INFO - Saved PDF chunk 67 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_67.pdf
+2025-09-13 23:35:00,321 - INFO - Saved PDF chunk 68 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_68.pdf
+2025-09-13 23:35:00,324 - INFO - Saved PDF chunk 69 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_69.pdf
+2025-09-13 23:35:00,326 - INFO - Saved PDF chunk 70 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_70.pdf
+2025-09-13 23:35:00,329 - INFO - Saved PDF chunk 71 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_71.pdf
+2025-09-13 23:35:00,333 - INFO - Saved PDF chunk 72 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_72.pdf
+2025-09-13 23:35:00,337 - INFO - Saved PDF chunk 73 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_73.pdf
+2025-09-13 23:35:00,341 - INFO - Saved PDF chunk 74 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_74.pdf
+2025-09-13 23:35:00,345 - INFO - Saved PDF chunk 75 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_75.pdf
+2025-09-13 23:35:00,348 - INFO - Saved PDF chunk 76 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_76.pdf
+2025-09-13 23:35:00,352 - INFO - Saved PDF chunk 77 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_77.pdf
+2025-09-13 23:35:00,354 - INFO - Saved PDF chunk 78 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_78.pdf
+2025-09-13 23:35:00,358 - INFO - Saved PDF chunk 79 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_79.pdf
+2025-09-13 23:35:00,361 - INFO - Saved PDF chunk 80 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_80.pdf
+2025-09-13 23:35:00,364 - INFO - Saved PDF chunk 81 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_81.pdf
+2025-09-13 23:35:00,367 - INFO - Saved PDF chunk 82 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_82.pdf
+2025-09-13 23:35:00,372 - INFO - Saved PDF chunk 83 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_83.pdf
+2025-09-13 23:35:00,375 - INFO - Saved PDF chunk 84 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_84.pdf
+2025-09-13 23:35:00,378 - INFO - Saved PDF chunk 85 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_85.pdf
+2025-09-13 23:35:00,381 - INFO - Saved PDF chunk 86 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_86.pdf
+2025-09-13 23:35:00,384 - INFO - Saved PDF chunk 87 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_87.pdf
+2025-09-13 23:35:00,387 - INFO - Saved PDF chunk 88 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_88.pdf
+2025-09-13 23:35:00,390 - INFO - Saved PDF chunk 89 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_89.pdf
+2025-09-13 23:35:00,393 - INFO - Saved PDF chunk 90 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_90.pdf
+2025-09-13 23:35:00,396 - INFO - Saved PDF chunk 91 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_91.pdf
+2025-09-13 23:35:00,398 - INFO - Saved PDF chunk 92 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_92.pdf
+2025-09-13 23:35:00,402 - INFO - Saved PDF chunk 93 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_93.pdf
+2025-09-13 23:35:00,405 - INFO - Saved PDF chunk 94 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_94.pdf
+2025-09-13 23:35:00,408 - INFO - Saved PDF chunk 95 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_95.pdf
+2025-09-13 23:35:00,412 - INFO - Saved PDF chunk 96 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_96.pdf
+2025-09-13 23:35:00,416 - INFO - Saved PDF chunk 97 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_97.pdf
+2025-09-13 23:35:00,419 - INFO - Saved PDF chunk 98 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_98.pdf
+2025-09-13 23:35:00,422 - INFO - Saved PDF chunk 99 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_99.pdf
+2025-09-13 23:35:00,426 - INFO - Saved PDF chunk 100 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_100.pdf
+2025-09-13 23:35:00,430 - INFO - Saved PDF chunk 101 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_101.pdf
+2025-09-13 23:35:00,433 - INFO - Saved PDF chunk 102 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_102.pdf
+2025-09-13 23:35:00,435 - INFO - Saved PDF chunk 103 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_103.pdf
+2025-09-13 23:35:00,437 - INFO - Saved PDF chunk 104 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_104.pdf
+2025-09-13 23:35:00,440 - INFO - Saved PDF chunk 105 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_105.pdf
+2025-09-13 23:35:00,443 - INFO - Saved PDF chunk 106 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_106.pdf
+2025-09-13 23:35:00,445 - INFO - Saved PDF chunk 107 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_107.pdf
+2025-09-13 23:35:00,449 - INFO - Saved PDF chunk 108 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_108.pdf
+2025-09-13 23:35:00,451 - INFO - Saved PDF chunk 109 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_109.pdf
+2025-09-13 23:35:00,455 - INFO - Saved PDF chunk 110 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_110.pdf
+2025-09-13 23:35:00,458 - INFO - Saved PDF chunk 111 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_111.pdf
+2025-09-13 23:35:00,461 - INFO - Saved PDF chunk 112 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_112.pdf
+2025-09-13 23:35:00,463 - INFO - Saved PDF chunk 113 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_113.pdf
+2025-09-13 23:35:00,466 - INFO - Saved PDF chunk 114 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_114.pdf
+2025-09-13 23:35:00,469 - INFO - Saved PDF chunk 115 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_115.pdf
+2025-09-13 23:35:00,473 - INFO - Saved PDF chunk 116 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_116.pdf
+2025-09-13 23:35:00,476 - INFO - Saved PDF chunk 117 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_117.pdf
+2025-09-13 23:35:00,479 - INFO - Saved PDF chunk 118 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_118.pdf
+2025-09-13 23:35:00,483 - INFO - Saved PDF chunk 119 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_119.pdf
+2025-09-13 23:35:00,483 - INFO - Saved 119 enriched PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-13 23:35:05,669 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-13 23:35:13,726 - INFO - Initialized HuggingFace embeddings.
+2025-09-13 23:35:17,794 - INFO - Loading faiss with AVX2 support.
+2025-09-13 23:35:17,849 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-13 23:35:17,871 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
+2025-09-13 23:41:10,502 - INFO - Starting PDF processing.
+2025-09-13 23:41:10,813 - INFO - Extracted image 0 from page 13 with OCR text length 0
+2025-09-13 23:41:11,091 - INFO - Extracted image 0 from page 14 with OCR text length 0
+2025-09-13 23:41:11,365 - INFO - Extracted image 1 from page 14 with OCR text length 0
+2025-09-13 23:41:11,667 - INFO - Extracted image 0 from page 21 with OCR text length 0
+2025-09-13 23:41:12,009 - INFO - Extracted image 1 from page 21 with OCR text length 0
+2025-09-13 23:41:12,280 - INFO - Extracted image 2 from page 21 with OCR text length 0
+2025-09-13 23:41:12,545 - INFO - Extracted image 0 from page 26 with OCR text length 0
+2025-09-13 23:41:12,852 - INFO - Extracted image 1 from page 26 with OCR text length 0
+2025-09-13 23:41:13,209 - INFO - Extracted image 2 from page 26 with OCR text length 0
+2025-09-13 23:41:13,547 - INFO - Extracted image 0 from page 32 with OCR text length 0
+2025-09-13 23:41:13,908 - INFO - Extracted image 1 from page 32 with OCR text length 0
+2025-09-13 23:41:14,301 - INFO - Extracted image 2 from page 32 with OCR text length 0
+2025-09-13 23:41:14,642 - INFO - Extracted image 3 from page 32 with OCR text length 0
+2025-09-13 23:41:14,951 - INFO - Extracted image 0 from page 33 with OCR text length 0
+2025-09-13 23:41:15,255 - INFO - Extracted image 1 from page 33 with OCR text length 0
+2025-09-13 23:41:15,490 - INFO - Extracted image 0 from page 34 with OCR text length 0
+2025-09-13 23:41:15,775 - INFO - Extracted image 0 from page 35 with OCR text length 3
+2025-09-13 23:41:16,150 - INFO - Extracted image 0 from page 36 with OCR text length 0
+2025-09-13 23:41:16,497 - INFO - Extracted image 1 from page 36 with OCR text length 0
+2025-09-13 23:41:16,789 - INFO - Extracted image 0 from page 45 with OCR text length 0
+2025-09-13 23:41:17,150 - INFO - Extracted image 0 from page 50 with OCR text length 0
+2025-09-13 23:41:17,413 - INFO - Extracted image 0 from page 53 with OCR text length 0
+2025-09-13 23:41:17,749 - INFO - Extracted image 1 from page 53 with OCR text length 8
+2025-09-13 23:41:18,020 - INFO - Extracted image 0 from page 54 with OCR text length 0
+2025-09-13 23:41:18,366 - INFO - Extracted image 0 from page 58 with OCR text length 0
+2025-09-13 23:41:18,669 - INFO - Extracted image 1 from page 58 with OCR text length 0
+2025-09-13 23:41:18,938 - INFO - Extracted image 0 from page 59 with OCR text length 0
+2025-09-13 23:41:19,338 - INFO - Extracted image 1 from page 59 with OCR text length 0
+2025-09-13 23:41:19,633 - INFO - Extracted image 0 from page 62 with OCR text length 0
+2025-09-13 23:41:20,009 - INFO - Extracted image 0 from page 63 with OCR text length 0
+2025-09-13 23:41:20,378 - INFO - Extracted image 0 from page 64 with OCR text length 0
+2025-09-13 23:41:20,696 - INFO - Extracted image 0 from page 68 with OCR text length 0
+2025-09-13 23:41:21,009 - INFO - Extracted image 1 from page 68 with OCR text length 0
+2025-09-13 23:41:21,279 - INFO - Extracted image 0 from page 74 with OCR text length 0
+2025-09-13 23:41:21,854 - INFO - Extracted image 0 from page 75 with OCR text length 608
+2025-09-13 23:41:22,260 - INFO - Extracted image 0 from page 77 with OCR text length 0
+2025-09-13 23:41:22,555 - INFO - Extracted image 1 from page 77 with OCR text length 0
+2025-09-13 23:41:22,920 - INFO - Extracted image 0 from page 79 with OCR text length 0
+2025-09-13 23:41:23,153 - INFO - Extracted image 0 from page 82 with OCR text length 0
+2025-09-13 23:41:23,394 - INFO - Extracted image 0 from page 83 with OCR text length 0
+2025-09-13 23:41:23,673 - INFO - Extracted image 0 from page 88 with OCR text length 0
+2025-09-13 23:41:23,928 - INFO - Extracted image 1 from page 88 with OCR text length 0
+2025-09-13 23:41:24,242 - INFO - Extracted image 2 from page 88 with OCR text length 0
+2025-09-13 23:41:24,543 - INFO - Extracted image 0 from page 89 with OCR text length 0
+2025-09-13 23:41:24,869 - INFO - Extracted image 1 from page 89 with OCR text length 0
+2025-09-13 23:41:25,122 - INFO - Extracted image 2 from page 89 with OCR text length 0
+2025-09-13 23:41:25,394 - INFO - Extracted image 0 from page 90 with OCR text length 0
+2025-09-13 23:41:25,696 - INFO - Extracted image 1 from page 90 with OCR text length 0
+2025-09-13 23:41:26,049 - INFO - Extracted image 2 from page 90 with OCR text length 0
+2025-09-13 23:41:26,303 - INFO - Extracted image 0 from page 91 with OCR text length 0
+2025-09-13 23:41:26,595 - INFO - Extracted image 1 from page 91 with OCR text length 0
+2025-09-13 23:41:26,833 - INFO - Extracted image 2 from page 91 with OCR text length 0
+2025-09-13 23:41:27,125 - INFO - Extracted image 0 from page 97 with OCR text length 0
+2025-09-13 23:41:27,525 - INFO - Extracted image 1 from page 97 with OCR text length 0
+2025-09-13 23:41:27,842 - INFO - Extracted image 0 from page 102 with OCR text length 0
+2025-09-13 23:41:28,099 - INFO - Extracted image 1 from page 102 with OCR text length 0
+2025-09-13 23:41:28,373 - INFO - Extracted image 0 from page 103 with OCR text length 0
+2025-09-13 23:41:28,654 - INFO - Extracted image 0 from page 104 with OCR text length 0
+2025-09-13 23:41:28,903 - INFO - Extracted image 1 from page 104 with OCR text length 0
+2025-09-13 23:41:29,301 - INFO - Extracted image 0 from page 105 with OCR text length 0
+2025-09-13 23:41:29,725 - INFO - Extracted image 1 from page 105 with OCR text length 0
+2025-09-13 23:41:29,970 - INFO - Extracted image 0 from page 106 with OCR text length 0
+2025-09-13 23:41:30,283 - INFO - Extracted image 0 from page 111 with OCR text length 0
+2025-09-13 23:41:30,582 - INFO - Extracted image 0 from page 112 with OCR text length 0
+2025-09-13 23:41:30,853 - INFO - Extracted image 0 from page 113 with OCR text length 0
+2025-09-13 23:41:30,855 - INFO - Extracted 65 images with OCR.
+2025-09-13 23:41:32,593 - INFO - Loaded 119 pages from PDF.
+2025-09-13 23:41:32,602 - INFO - Split into 119 text chunks.
+2025-09-13 23:41:32,603 - INFO - Enriched 119 chunks with OCR and image metadata.
+2025-09-13 23:41:32,609 - INFO - Saved PDF chunk 1 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_1.pdf
+2025-09-13 23:41:32,613 - INFO - Saved PDF chunk 2 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_2.pdf
+2025-09-13 23:41:32,617 - INFO - Saved PDF chunk 3 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_3.pdf
+2025-09-13 23:41:32,620 - INFO - Saved PDF chunk 4 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_4.pdf
+2025-09-13 23:41:32,625 - INFO - Saved PDF chunk 5 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_5.pdf
+2025-09-13 23:41:32,628 - INFO - Saved PDF chunk 6 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_6.pdf
+2025-09-13 23:41:32,631 - INFO - Saved PDF chunk 7 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_7.pdf
+2025-09-13 23:41:32,635 - INFO - Saved PDF chunk 8 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_8.pdf
+2025-09-13 23:41:32,640 - INFO - Saved PDF chunk 9 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_9.pdf
+2025-09-13 23:41:32,643 - INFO - Saved PDF chunk 10 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_10.pdf
+2025-09-13 23:41:32,646 - INFO - Saved PDF chunk 11 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_11.pdf
+2025-09-13 23:41:32,650 - INFO - Saved PDF chunk 12 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_12.pdf
+2025-09-13 23:41:32,654 - INFO - Saved PDF chunk 13 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_13.pdf
+2025-09-13 23:41:32,657 - INFO - Saved PDF chunk 14 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_14.pdf
+2025-09-13 23:41:32,659 - INFO - Saved PDF chunk 15 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_15.pdf
+2025-09-13 23:41:32,663 - INFO - Saved PDF chunk 16 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_16.pdf
+2025-09-13 23:41:32,665 - INFO - Saved PDF chunk 17 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_17.pdf
+2025-09-13 23:41:32,669 - INFO - Saved PDF chunk 18 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_18.pdf
+2025-09-13 23:41:32,672 - INFO - Saved PDF chunk 19 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_19.pdf
+2025-09-13 23:41:32,676 - INFO - Saved PDF chunk 20 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_20.pdf
+2025-09-13 23:41:32,679 - INFO - Saved PDF chunk 21 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_21.pdf
+2025-09-13 23:41:32,682 - INFO - Saved PDF chunk 22 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_22.pdf
+2025-09-13 23:41:32,686 - INFO - Saved PDF chunk 23 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_23.pdf
+2025-09-13 23:41:32,690 - INFO - Saved PDF chunk 24 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_24.pdf
+2025-09-13 23:41:32,693 - INFO - Saved PDF chunk 25 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_25.pdf
+2025-09-13 23:41:32,696 - INFO - Saved PDF chunk 26 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_26.pdf
+2025-09-13 23:41:32,699 - INFO - Saved PDF chunk 27 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_27.pdf
+2025-09-13 23:41:32,703 - INFO - Saved PDF chunk 28 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_28.pdf
+2025-09-13 23:41:32,707 - INFO - Saved PDF chunk 29 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_29.pdf
+2025-09-13 23:41:32,710 - INFO - Saved PDF chunk 30 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_30.pdf
+2025-09-13 23:41:32,713 - INFO - Saved PDF chunk 31 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_31.pdf
+2025-09-13 23:41:32,717 - INFO - Saved PDF chunk 32 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_32.pdf
+2025-09-13 23:41:32,721 - INFO - Saved PDF chunk 33 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_33.pdf
+2025-09-13 23:41:32,723 - INFO - Saved PDF chunk 34 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_34.pdf
+2025-09-13 23:41:32,727 - INFO - Saved PDF chunk 35 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_35.pdf
+2025-09-13 23:41:32,729 - INFO - Saved PDF chunk 36 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_36.pdf
+2025-09-13 23:41:32,731 - INFO - Saved PDF chunk 37 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_37.pdf
+2025-09-13 23:41:32,734 - INFO - Saved PDF chunk 38 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_38.pdf
+2025-09-13 23:41:32,738 - INFO - Saved PDF chunk 39 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_39.pdf
+2025-09-13 23:41:32,743 - INFO - Saved PDF chunk 40 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_40.pdf
+2025-09-13 23:41:32,746 - INFO - Saved PDF chunk 41 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_41.pdf
+2025-09-13 23:41:32,749 - INFO - Saved PDF chunk 42 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_42.pdf
+2025-09-13 23:41:32,753 - INFO - Saved PDF chunk 43 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_43.pdf
+2025-09-13 23:41:32,757 - INFO - Saved PDF chunk 44 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_44.pdf
+2025-09-13 23:41:32,761 - INFO - Saved PDF chunk 45 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_45.pdf
+2025-09-13 23:41:32,763 - INFO - Saved PDF chunk 46 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_46.pdf
+2025-09-13 23:41:32,767 - INFO - Saved PDF chunk 47 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_47.pdf
+2025-09-13 23:41:32,771 - INFO - Saved PDF chunk 48 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_48.pdf
+2025-09-13 23:41:32,775 - INFO - Saved PDF chunk 49 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_49.pdf
+2025-09-13 23:41:32,778 - INFO - Saved PDF chunk 50 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_50.pdf
+2025-09-13 23:41:32,781 - INFO - Saved PDF chunk 51 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_51.pdf
+2025-09-13 23:41:32,785 - INFO - Saved PDF chunk 52 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_52.pdf
+2025-09-13 23:41:32,790 - INFO - Saved PDF chunk 53 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_53.pdf
+2025-09-13 23:41:32,792 - INFO - Saved PDF chunk 54 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_54.pdf
+2025-09-13 23:41:32,795 - INFO - Saved PDF chunk 55 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_55.pdf
+2025-09-13 23:41:32,798 - INFO - Saved PDF chunk 56 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_56.pdf
+2025-09-13 23:41:32,802 - INFO - Saved PDF chunk 57 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_57.pdf
+2025-09-13 23:41:32,806 - INFO - Saved PDF chunk 58 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_58.pdf
+2025-09-13 23:41:32,809 - INFO - Saved PDF chunk 59 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_59.pdf
+2025-09-13 23:41:32,811 - INFO - Saved PDF chunk 60 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_60.pdf
+2025-09-13 23:41:32,814 - INFO - Saved PDF chunk 61 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_61.pdf
+2025-09-13 23:41:32,817 - INFO - Saved PDF chunk 62 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_62.pdf
+2025-09-13 23:41:32,821 - INFO - Saved PDF chunk 63 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_63.pdf
+2025-09-13 23:41:32,824 - INFO - Saved PDF chunk 64 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_64.pdf
+2025-09-13 23:41:32,826 - INFO - Saved PDF chunk 65 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_65.pdf
+2025-09-13 23:41:32,829 - INFO - Saved PDF chunk 66 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_66.pdf
+2025-09-13 23:41:32,832 - INFO - Saved PDF chunk 67 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_67.pdf
+2025-09-13 23:41:32,837 - INFO - Saved PDF chunk 68 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_68.pdf
+2025-09-13 23:41:32,840 - INFO - Saved PDF chunk 69 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_69.pdf
+2025-09-13 23:41:32,843 - INFO - Saved PDF chunk 70 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_70.pdf
+2025-09-13 23:41:32,846 - INFO - Saved PDF chunk 71 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_71.pdf
+2025-09-13 23:41:32,850 - INFO - Saved PDF chunk 72 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_72.pdf
+2025-09-13 23:41:32,855 - INFO - Saved PDF chunk 73 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_73.pdf
+2025-09-13 23:41:32,858 - INFO - Saved PDF chunk 74 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_74.pdf
+2025-09-13 23:41:32,861 - INFO - Saved PDF chunk 75 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_75.pdf
+2025-09-13 23:41:32,865 - INFO - Saved PDF chunk 76 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_76.pdf
+2025-09-13 23:41:32,867 - INFO - Saved PDF chunk 77 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_77.pdf
+2025-09-13 23:41:32,871 - INFO - Saved PDF chunk 78 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_78.pdf
+2025-09-13 23:41:32,875 - INFO - Saved PDF chunk 79 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_79.pdf
+2025-09-13 23:41:32,878 - INFO - Saved PDF chunk 80 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_80.pdf
+2025-09-13 23:41:32,882 - INFO - Saved PDF chunk 81 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_81.pdf
+2025-09-13 23:41:32,885 - INFO - Saved PDF chunk 82 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_82.pdf
+2025-09-13 23:41:32,889 - INFO - Saved PDF chunk 83 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_83.pdf
+2025-09-13 23:41:32,893 - INFO - Saved PDF chunk 84 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_84.pdf
+2025-09-13 23:41:32,896 - INFO - Saved PDF chunk 85 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_85.pdf
+2025-09-13 23:41:32,900 - INFO - Saved PDF chunk 86 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_86.pdf
+2025-09-13 23:41:32,903 - INFO - Saved PDF chunk 87 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_87.pdf
+2025-09-13 23:41:32,907 - INFO - Saved PDF chunk 88 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_88.pdf
+2025-09-13 23:41:32,910 - INFO - Saved PDF chunk 89 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_89.pdf
+2025-09-13 23:41:32,913 - INFO - Saved PDF chunk 90 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_90.pdf
+2025-09-13 23:41:32,915 - INFO - Saved PDF chunk 91 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_91.pdf
+2025-09-13 23:41:32,918 - INFO - Saved PDF chunk 92 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_92.pdf
+2025-09-13 23:41:32,922 - INFO - Saved PDF chunk 93 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_93.pdf
+2025-09-13 23:41:32,926 - INFO - Saved PDF chunk 94 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_94.pdf
+2025-09-13 23:41:32,929 - INFO - Saved PDF chunk 95 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_95.pdf
+2025-09-13 23:41:32,934 - INFO - Saved PDF chunk 96 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_96.pdf
+2025-09-13 23:41:32,939 - INFO - Saved PDF chunk 97 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_97.pdf
+2025-09-13 23:41:32,942 - INFO - Saved PDF chunk 98 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_98.pdf
+2025-09-13 23:41:32,945 - INFO - Saved PDF chunk 99 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_99.pdf
+2025-09-13 23:41:32,949 - INFO - Saved PDF chunk 100 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_100.pdf
+2025-09-13 23:41:32,951 - INFO - Saved PDF chunk 101 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_101.pdf
+2025-09-13 23:41:32,955 - INFO - Saved PDF chunk 102 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_102.pdf
+2025-09-13 23:41:32,958 - INFO - Saved PDF chunk 103 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_103.pdf
+2025-09-13 23:41:32,960 - INFO - Saved PDF chunk 104 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_104.pdf
+2025-09-13 23:41:32,962 - INFO - Saved PDF chunk 105 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_105.pdf
+2025-09-13 23:41:32,965 - INFO - Saved PDF chunk 106 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_106.pdf
+2025-09-13 23:41:32,967 - INFO - Saved PDF chunk 107 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_107.pdf
+2025-09-13 23:41:32,971 - INFO - Saved PDF chunk 108 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_108.pdf
+2025-09-13 23:41:32,974 - INFO - Saved PDF chunk 109 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_109.pdf
+2025-09-13 23:41:32,977 - INFO - Saved PDF chunk 110 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_110.pdf
+2025-09-13 23:41:32,981 - INFO - Saved PDF chunk 111 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_111.pdf
+2025-09-13 23:41:32,984 - INFO - Saved PDF chunk 112 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_112.pdf
+2025-09-13 23:41:32,986 - INFO - Saved PDF chunk 113 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_113.pdf
+2025-09-13 23:41:32,988 - INFO - Saved PDF chunk 114 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_114.pdf
+2025-09-13 23:41:32,992 - INFO - Saved PDF chunk 115 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_115.pdf
+2025-09-13 23:41:32,995 - INFO - Saved PDF chunk 116 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_116.pdf
+2025-09-13 23:41:32,998 - INFO - Saved PDF chunk 117 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_117.pdf
+2025-09-13 23:41:33,001 - INFO - Saved PDF chunk 118 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_118.pdf
+2025-09-13 23:41:33,005 - INFO - Saved PDF chunk 119 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_119.pdf
+2025-09-13 23:41:33,005 - INFO - Saved 119 enriched PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-13 23:41:38,106 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-13 23:41:45,744 - INFO - Initialized HuggingFace embeddings.
+2025-09-13 23:41:49,776 - INFO - Loading faiss with AVX2 support.
+2025-09-13 23:41:49,820 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-13 23:41:49,842 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
+2025-09-18 22:13:44,664 - INFO - Starting PDF processing.
+2025-09-18 22:13:45,690 - INFO - Extracted image 0 from page 13 with OCR text length 0
+2025-09-18 22:13:45,854 - INFO - Extracted image 0 from page 14 with OCR text length 0
+2025-09-18 22:13:46,165 - INFO - Extracted image 1 from page 14 with OCR text length 0
+2025-09-18 22:13:46,414 - INFO - Extracted image 0 from page 21 with OCR text length 0
+2025-09-18 22:13:46,633 - INFO - Extracted image 1 from page 21 with OCR text length 0
+2025-09-18 22:13:46,875 - INFO - Extracted image 2 from page 21 with OCR text length 0
+2025-09-18 22:13:47,046 - INFO - Extracted image 0 from page 26 with OCR text length 0
+2025-09-18 22:13:47,233 - INFO - Extracted image 1 from page 26 with OCR text length 0
+2025-09-18 22:13:47,555 - INFO - Extracted image 2 from page 26 with OCR text length 0
+2025-09-18 22:13:47,990 - INFO - Extracted image 0 from page 32 with OCR text length 0
+2025-09-18 22:13:48,498 - INFO - Extracted image 1 from page 32 with OCR text length 0
+2025-09-18 22:13:48,717 - INFO - Extracted image 2 from page 32 with OCR text length 0
+2025-09-18 22:13:48,893 - INFO - Extracted image 3 from page 32 with OCR text length 0
+2025-09-18 22:13:49,727 - INFO - Extracted image 0 from page 33 with OCR text length 0
+2025-09-18 22:13:49,874 - INFO - Extracted image 1 from page 33 with OCR text length 0
+2025-09-18 22:13:50,004 - INFO - Extracted image 0 from page 34 with OCR text length 0
+2025-09-18 22:13:51,281 - INFO - Extracted image 0 from page 35 with OCR text length 3
+2025-09-18 22:13:51,482 - INFO - Extracted image 0 from page 36 with OCR text length 0
+2025-09-18 22:13:51,705 - INFO - Extracted image 1 from page 36 with OCR text length 0
+2025-09-18 22:13:52,045 - INFO - Extracted image 0 from page 45 with OCR text length 0
+2025-09-18 22:13:52,244 - INFO - Extracted image 0 from page 50 with OCR text length 0
+2025-09-18 22:13:52,392 - INFO - Extracted image 0 from page 53 with OCR text length 0
+2025-09-18 22:13:52,606 - INFO - Extracted image 1 from page 53 with OCR text length 8
+2025-09-18 22:13:52,763 - INFO - Extracted image 0 from page 54 with OCR text length 0
+2025-09-18 22:13:52,959 - INFO - Extracted image 0 from page 58 with OCR text length 0
+2025-09-18 22:13:53,121 - INFO - Extracted image 1 from page 58 with OCR text length 0
+2025-09-18 22:13:53,269 - INFO - Extracted image 0 from page 59 with OCR text length 0
+2025-09-18 22:13:53,484 - INFO - Extracted image 1 from page 59 with OCR text length 0
+2025-09-18 22:13:53,654 - INFO - Extracted image 0 from page 62 with OCR text length 0
+2025-09-18 22:13:53,881 - INFO - Extracted image 0 from page 63 with OCR text length 0
+2025-09-18 22:13:54,121 - INFO - Extracted image 0 from page 64 with OCR text length 0
+2025-09-18 22:13:54,322 - INFO - Extracted image 0 from page 68 with OCR text length 0
+2025-09-18 22:13:54,525 - INFO - Extracted image 1 from page 68 with OCR text length 0
+2025-09-18 22:13:54,687 - INFO - Extracted image 0 from page 74 with OCR text length 0
+2025-09-18 22:13:55,086 - INFO - Extracted image 0 from page 75 with OCR text length 608
+2025-09-18 22:13:55,456 - INFO - Extracted image 0 from page 77 with OCR text length 0
+2025-09-18 22:13:55,732 - INFO - Extracted image 1 from page 77 with OCR text length 0
+2025-09-18 22:13:55,995 - INFO - Extracted image 0 from page 79 with OCR text length 0
+2025-09-18 22:13:56,160 - INFO - Extracted image 0 from page 82 with OCR text length 0
+2025-09-18 22:13:56,370 - INFO - Extracted image 0 from page 83 with OCR text length 0
+2025-09-18 22:13:56,571 - INFO - Extracted image 0 from page 88 with OCR text length 0
+2025-09-18 22:13:56,782 - INFO - Extracted image 1 from page 88 with OCR text length 0
+2025-09-18 22:13:57,013 - INFO - Extracted image 2 from page 88 with OCR text length 0
+2025-09-18 22:13:57,316 - INFO - Extracted image 0 from page 89 with OCR text length 0
+2025-09-18 22:13:57,553 - INFO - Extracted image 1 from page 89 with OCR text length 0
+2025-09-18 22:13:57,810 - INFO - Extracted image 2 from page 89 with OCR text length 0
+2025-09-18 22:13:58,024 - INFO - Extracted image 0 from page 90 with OCR text length 0
+2025-09-18 22:13:58,270 - INFO - Extracted image 1 from page 90 with OCR text length 0
+2025-09-18 22:13:58,527 - INFO - Extracted image 2 from page 90 with OCR text length 0
+2025-09-18 22:13:58,701 - INFO - Extracted image 0 from page 91 with OCR text length 0
+2025-09-18 22:13:58,911 - INFO - Extracted image 1 from page 91 with OCR text length 0
+2025-09-18 22:13:59,102 - INFO - Extracted image 2 from page 91 with OCR text length 0
+2025-09-18 22:13:59,311 - INFO - Extracted image 0 from page 97 with OCR text length 0
+2025-09-18 22:13:59,651 - INFO - Extracted image 1 from page 97 with OCR text length 0
+2025-09-18 22:13:59,966 - INFO - Extracted image 0 from page 102 with OCR text length 0
+2025-09-18 22:14:00,254 - INFO - Extracted image 1 from page 102 with OCR text length 0
+2025-09-18 22:14:00,453 - INFO - Extracted image 0 from page 103 with OCR text length 0
+2025-09-18 22:14:00,682 - INFO - Extracted image 0 from page 104 with OCR text length 0
+2025-09-18 22:14:00,920 - INFO - Extracted image 1 from page 104 with OCR text length 0
+2025-09-18 22:14:01,249 - INFO - Extracted image 0 from page 105 with OCR text length 0
+2025-09-18 22:14:01,578 - INFO - Extracted image 1 from page 105 with OCR text length 0
+2025-09-18 22:14:01,779 - INFO - Extracted image 0 from page 106 with OCR text length 0
+2025-09-18 22:14:02,025 - INFO - Extracted image 0 from page 111 with OCR text length 0
+2025-09-18 22:14:02,302 - INFO - Extracted image 0 from page 112 with OCR text length 0
+2025-09-18 22:14:02,492 - INFO - Extracted image 0 from page 113 with OCR text length 0
+2025-09-18 22:14:02,492 - INFO - Extracted 65 images with OCR.
+2025-09-18 22:14:03,906 - INFO - Loaded 119 pages from PDF.
+2025-09-18 22:14:03,914 - INFO - Split into 119 text chunks.
+2025-09-18 22:14:03,915 - INFO - Enriched 119 chunks with OCR and image metadata.
+2025-09-18 22:14:03,919 - INFO - Saved PDF chunk 1 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_1.pdf
+2025-09-18 22:14:03,924 - INFO - Saved PDF chunk 2 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_2.pdf
+2025-09-18 22:14:03,927 - INFO - Saved PDF chunk 3 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_3.pdf
+2025-09-18 22:14:03,929 - INFO - Saved PDF chunk 4 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_4.pdf
+2025-09-18 22:14:03,933 - INFO - Saved PDF chunk 5 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_5.pdf
+2025-09-18 22:14:03,935 - INFO - Saved PDF chunk 6 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_6.pdf
+2025-09-18 22:14:03,938 - INFO - Saved PDF chunk 7 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_7.pdf
+2025-09-18 22:14:03,941 - INFO - Saved PDF chunk 8 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_8.pdf
+2025-09-18 22:14:03,945 - INFO - Saved PDF chunk 9 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_9.pdf
+2025-09-18 22:14:03,948 - INFO - Saved PDF chunk 10 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_10.pdf
+2025-09-18 22:14:03,951 - INFO - Saved PDF chunk 11 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_11.pdf
+2025-09-18 22:14:03,953 - INFO - Saved PDF chunk 12 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_12.pdf
+2025-09-18 22:14:03,957 - INFO - Saved PDF chunk 13 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_13.pdf
+2025-09-18 22:14:03,959 - INFO - Saved PDF chunk 14 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_14.pdf
+2025-09-18 22:14:03,961 - INFO - Saved PDF chunk 15 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_15.pdf
+2025-09-18 22:14:03,964 - INFO - Saved PDF chunk 16 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_16.pdf
+2025-09-18 22:14:03,967 - INFO - Saved PDF chunk 17 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_17.pdf
+2025-09-18 22:14:03,969 - INFO - Saved PDF chunk 18 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_18.pdf
+2025-09-18 22:14:03,973 - INFO - Saved PDF chunk 19 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_19.pdf
+2025-09-18 22:14:03,975 - INFO - Saved PDF chunk 20 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_20.pdf
+2025-09-18 22:14:03,980 - INFO - Saved PDF chunk 21 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_21.pdf
+2025-09-18 22:14:03,982 - INFO - Saved PDF chunk 22 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_22.pdf
+2025-09-18 22:14:03,986 - INFO - Saved PDF chunk 23 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_23.pdf
+2025-09-18 22:14:03,989 - INFO - Saved PDF chunk 24 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_24.pdf
+2025-09-18 22:14:03,989 - INFO - Saved PDF chunk 25 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_25.pdf
+2025-09-18 22:14:03,996 - INFO - Saved PDF chunk 26 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_26.pdf
+2025-09-18 22:14:03,997 - INFO - Saved PDF chunk 27 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_27.pdf
+2025-09-18 22:14:03,997 - INFO - Saved PDF chunk 28 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_28.pdf
+2025-09-18 22:14:04,004 - INFO - Saved PDF chunk 29 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_29.pdf
+2025-09-18 22:14:04,004 - INFO - Saved PDF chunk 30 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_30.pdf
+2025-09-18 22:14:04,011 - INFO - Saved PDF chunk 31 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_31.pdf
+2025-09-18 22:14:04,011 - INFO - Saved PDF chunk 32 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_32.pdf
+2025-09-18 22:14:04,017 - INFO - Saved PDF chunk 33 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_33.pdf
+2025-09-18 22:14:04,020 - INFO - Saved PDF chunk 34 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_34.pdf
+2025-09-18 22:14:04,020 - INFO - Saved PDF chunk 35 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_35.pdf
+2025-09-18 22:14:04,024 - INFO - Saved PDF chunk 36 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_36.pdf
+2025-09-18 22:14:04,024 - INFO - Saved PDF chunk 37 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_37.pdf
+2025-09-18 22:14:04,024 - INFO - Saved PDF chunk 38 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_38.pdf
+2025-09-18 22:14:04,031 - INFO - Saved PDF chunk 39 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_39.pdf
+2025-09-18 22:14:04,031 - INFO - Saved PDF chunk 40 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_40.pdf
+2025-09-18 22:14:04,038 - INFO - Saved PDF chunk 41 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_41.pdf
+2025-09-18 22:14:04,041 - INFO - Saved PDF chunk 42 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_42.pdf
+2025-09-18 22:14:04,045 - INFO - Saved PDF chunk 43 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_43.pdf
+2025-09-18 22:14:04,045 - INFO - Saved PDF chunk 44 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_44.pdf
+2025-09-18 22:14:04,052 - INFO - Saved PDF chunk 45 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_45.pdf
+2025-09-18 22:14:04,052 - INFO - Saved PDF chunk 46 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_46.pdf
+2025-09-18 22:14:04,052 - INFO - Saved PDF chunk 47 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_47.pdf
+2025-09-18 22:14:04,059 - INFO - Saved PDF chunk 48 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_48.pdf
+2025-09-18 22:14:04,062 - INFO - Saved PDF chunk 49 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_49.pdf
+2025-09-18 22:14:04,066 - INFO - Saved PDF chunk 50 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_50.pdf
+2025-09-18 22:14:04,066 - INFO - Saved PDF chunk 51 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_51.pdf
+2025-09-18 22:14:04,072 - INFO - Saved PDF chunk 52 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_52.pdf
+2025-09-18 22:14:04,073 - INFO - Saved PDF chunk 53 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_53.pdf
+2025-09-18 22:14:04,073 - INFO - Saved PDF chunk 54 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_54.pdf
+2025-09-18 22:14:04,080 - INFO - Saved PDF chunk 55 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_55.pdf
+2025-09-18 22:14:04,084 - INFO - Saved PDF chunk 56 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_56.pdf
+2025-09-18 22:14:04,087 - INFO - Saved PDF chunk 57 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_57.pdf
+2025-09-18 22:14:04,087 - INFO - Saved PDF chunk 58 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_58.pdf
+2025-09-18 22:14:04,087 - INFO - Saved PDF chunk 59 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_59.pdf
+2025-09-18 22:14:04,094 - INFO - Saved PDF chunk 60 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_60.pdf
+2025-09-18 22:14:04,094 - INFO - Saved PDF chunk 61 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_61.pdf
+2025-09-18 22:14:04,100 - INFO - Saved PDF chunk 62 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_62.pdf
+2025-09-18 22:14:04,102 - INFO - Saved PDF chunk 63 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_63.pdf
+2025-09-18 22:14:04,102 - INFO - Saved PDF chunk 64 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_64.pdf
+2025-09-18 22:14:04,109 - INFO - Saved PDF chunk 65 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_65.pdf
+2025-09-18 22:14:04,109 - INFO - Saved PDF chunk 66 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_66.pdf
+2025-09-18 22:14:04,115 - INFO - Saved PDF chunk 67 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_67.pdf
+2025-09-18 22:14:04,116 - INFO - Saved PDF chunk 68 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_68.pdf
+2025-09-18 22:14:04,121 - INFO - Saved PDF chunk 69 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_69.pdf
+2025-09-18 22:14:04,122 - INFO - Saved PDF chunk 70 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_70.pdf
+2025-09-18 22:14:04,126 - INFO - Saved PDF chunk 71 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_71.pdf
+2025-09-18 22:14:04,130 - INFO - Saved PDF chunk 72 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_72.pdf
+2025-09-18 22:14:04,130 - INFO - Saved PDF chunk 73 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_73.pdf
+2025-09-18 22:14:04,136 - INFO - Saved PDF chunk 74 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_74.pdf
+2025-09-18 22:14:04,136 - INFO - Saved PDF chunk 75 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_75.pdf
+2025-09-18 22:14:04,143 - INFO - Saved PDF chunk 76 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_76.pdf
+2025-09-18 22:14:04,147 - INFO - Saved PDF chunk 77 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_77.pdf
+2025-09-18 22:14:04,149 - INFO - Saved PDF chunk 78 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_78.pdf
+2025-09-18 22:14:04,149 - INFO - Saved PDF chunk 79 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_79.pdf
+2025-09-18 22:14:04,156 - INFO - Saved PDF chunk 80 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_80.pdf
+2025-09-18 22:14:04,157 - INFO - Saved PDF chunk 81 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_81.pdf
+2025-09-18 22:14:04,163 - INFO - Saved PDF chunk 82 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_82.pdf
+2025-09-18 22:14:04,164 - INFO - Saved PDF chunk 83 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_83.pdf
+2025-09-18 22:14:04,169 - INFO - Saved PDF chunk 84 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_84.pdf
+2025-09-18 22:14:04,171 - INFO - Saved PDF chunk 85 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_85.pdf
+2025-09-18 22:14:04,171 - INFO - Saved PDF chunk 86 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_86.pdf
+2025-09-18 22:14:04,178 - INFO - Saved PDF chunk 87 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_87.pdf
+2025-09-18 22:14:04,178 - INFO - Saved PDF chunk 88 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_88.pdf
+2025-09-18 22:14:04,183 - INFO - Saved PDF chunk 89 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_89.pdf
+2025-09-18 22:14:04,186 - INFO - Saved PDF chunk 90 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_90.pdf
+2025-09-18 22:14:04,188 - INFO - Saved PDF chunk 91 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_91.pdf
+2025-09-18 22:14:04,192 - INFO - Saved PDF chunk 92 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_92.pdf
+2025-09-18 22:14:04,192 - INFO - Saved PDF chunk 93 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_93.pdf
+2025-09-18 22:14:04,199 - INFO - Saved PDF chunk 94 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_94.pdf
+2025-09-18 22:14:04,201 - INFO - Saved PDF chunk 95 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_95.pdf
+2025-09-18 22:14:04,206 - INFO - Saved PDF chunk 96 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_96.pdf
+2025-09-18 22:14:04,206 - INFO - Saved PDF chunk 97 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_97.pdf
+2025-09-18 22:14:04,212 - INFO - Saved PDF chunk 98 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_98.pdf
+2025-09-18 22:14:04,212 - INFO - Saved PDF chunk 99 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_99.pdf
+2025-09-18 22:14:04,218 - INFO - Saved PDF chunk 100 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_100.pdf
+2025-09-18 22:14:04,220 - INFO - Saved PDF chunk 101 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_101.pdf
+2025-09-18 22:14:04,220 - INFO - Saved PDF chunk 102 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_102.pdf
+2025-09-18 22:14:04,226 - INFO - Saved PDF chunk 103 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_103.pdf
+2025-09-18 22:14:04,227 - INFO - Saved PDF chunk 104 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_104.pdf
+2025-09-18 22:14:04,227 - INFO - Saved PDF chunk 105 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_105.pdf
+2025-09-18 22:14:04,233 - INFO - Saved PDF chunk 106 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_106.pdf
+2025-09-18 22:14:04,233 - INFO - Saved PDF chunk 107 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_107.pdf
+2025-09-18 22:14:04,239 - INFO - Saved PDF chunk 108 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_108.pdf
+2025-09-18 22:14:04,242 - INFO - Saved PDF chunk 109 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_109.pdf
+2025-09-18 22:14:04,245 - INFO - Saved PDF chunk 110 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_110.pdf
+2025-09-18 22:14:04,247 - INFO - Saved PDF chunk 111 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_111.pdf
+2025-09-18 22:14:04,253 - INFO - Saved PDF chunk 112 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_112.pdf
+2025-09-18 22:14:04,254 - INFO - Saved PDF chunk 113 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_113.pdf
+2025-09-18 22:14:04,254 - INFO - Saved PDF chunk 114 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_114.pdf
+2025-09-18 22:14:04,261 - INFO - Saved PDF chunk 115 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_115.pdf
+2025-09-18 22:14:04,261 - INFO - Saved PDF chunk 116 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_116.pdf
+2025-09-18 22:14:04,268 - INFO - Saved PDF chunk 117 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_117.pdf
+2025-09-18 22:14:04,268 - INFO - Saved PDF chunk 118 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_118.pdf
+2025-09-18 22:14:04,274 - INFO - Saved PDF chunk 119 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_119.pdf
+2025-09-18 22:14:04,275 - INFO - Saved 119 enriched PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-18 22:14:17,363 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-18 22:14:23,613 - INFO - Initialized HuggingFace embeddings.
+2025-09-18 22:14:29,963 - INFO - Loading faiss with AVX2 support.
+2025-09-18 22:14:30,260 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-18 22:14:30,271 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
+2025-09-26 22:29:47,071 - INFO - Starting PDF processing.
+2025-09-26 22:29:49,410 - INFO - Extracted image 0 from page 13 with OCR text length 0
+2025-09-26 22:29:49,665 - INFO - Extracted image 0 from page 14 with OCR text length 0
+2025-09-26 22:29:49,913 - INFO - Extracted image 1 from page 14 with OCR text length 0
+2025-09-26 22:29:50,185 - INFO - Extracted image 0 from page 21 with OCR text length 0
+2025-09-26 22:29:50,533 - INFO - Extracted image 1 from page 21 with OCR text length 0
+2025-09-26 22:29:50,794 - INFO - Extracted image 2 from page 21 with OCR text length 0
+2025-09-26 22:29:51,041 - INFO - Extracted image 0 from page 26 with OCR text length 0
+2025-09-26 22:29:51,370 - INFO - Extracted image 1 from page 26 with OCR text length 0
+2025-09-26 22:29:51,706 - INFO - Extracted image 2 from page 26 with OCR text length 0
+2025-09-26 22:29:52,007 - INFO - Extracted image 0 from page 32 with OCR text length 0
+2025-09-26 22:29:52,363 - INFO - Extracted image 1 from page 32 with OCR text length 0
+2025-09-26 22:29:52,734 - INFO - Extracted image 2 from page 32 with OCR text length 0
+2025-09-26 22:29:53,073 - INFO - Extracted image 3 from page 32 with OCR text length 0
+2025-09-26 22:29:53,350 - INFO - Extracted image 0 from page 33 with OCR text length 0
+2025-09-26 22:29:53,596 - INFO - Extracted image 1 from page 33 with OCR text length 0
+2025-09-26 22:29:53,859 - INFO - Extracted image 0 from page 34 with OCR text length 0
+2025-09-26 22:29:54,158 - INFO - Extracted image 0 from page 35 with OCR text length 3
+2025-09-26 22:29:54,516 - INFO - Extracted image 0 from page 36 with OCR text length 0
+2025-09-26 22:29:54,859 - INFO - Extracted image 1 from page 36 with OCR text length 0
+2025-09-26 22:29:55,193 - INFO - Extracted image 0 from page 45 with OCR text length 0
+2025-09-26 22:29:55,502 - INFO - Extracted image 0 from page 50 with OCR text length 0
+2025-09-26 22:29:55,742 - INFO - Extracted image 0 from page 53 with OCR text length 0
+2025-09-26 22:29:56,135 - INFO - Extracted image 1 from page 53 with OCR text length 8
+2025-09-26 22:29:56,434 - INFO - Extracted image 0 from page 54 with OCR text length 0
+2025-09-26 22:29:56,827 - INFO - Extracted image 0 from page 58 with OCR text length 0
+2025-09-26 22:29:57,103 - INFO - Extracted image 1 from page 58 with OCR text length 0
+2025-09-26 22:29:57,589 - INFO - Extracted image 0 from page 59 with OCR text length 0
+2025-09-26 22:29:58,012 - INFO - Extracted image 1 from page 59 with OCR text length 0
+2025-09-26 22:29:58,353 - INFO - Extracted image 0 from page 62 with OCR text length 0
+2025-09-26 22:29:58,687 - INFO - Extracted image 0 from page 63 with OCR text length 0
+2025-09-26 22:29:59,024 - INFO - Extracted image 0 from page 64 with OCR text length 0
+2025-09-26 22:29:59,316 - INFO - Extracted image 0 from page 68 with OCR text length 0
+2025-09-26 22:29:59,568 - INFO - Extracted image 1 from page 68 with OCR text length 0
+2025-09-26 22:29:59,800 - INFO - Extracted image 0 from page 74 with OCR text length 0
+2025-09-26 22:30:00,521 - INFO - Extracted image 0 from page 75 with OCR text length 608
+2025-09-26 22:30:00,950 - INFO - Extracted image 0 from page 77 with OCR text length 0
+2025-09-26 22:30:01,244 - INFO - Extracted image 1 from page 77 with OCR text length 0
+2025-09-26 22:30:01,555 - INFO - Extracted image 0 from page 79 with OCR text length 0
+2025-09-26 22:30:01,776 - INFO - Extracted image 0 from page 82 with OCR text length 0
+2025-09-26 22:30:01,985 - INFO - Extracted image 0 from page 83 with OCR text length 0
+2025-09-26 22:30:02,260 - INFO - Extracted image 0 from page 88 with OCR text length 0
+2025-09-26 22:30:02,523 - INFO - Extracted image 1 from page 88 with OCR text length 0
+2025-09-26 22:30:02,929 - INFO - Extracted image 2 from page 88 with OCR text length 0
+2025-09-26 22:30:03,233 - INFO - Extracted image 0 from page 89 with OCR text length 0
+2025-09-26 22:30:03,539 - INFO - Extracted image 1 from page 89 with OCR text length 0
+2025-09-26 22:30:03,812 - INFO - Extracted image 2 from page 89 with OCR text length 0
+2025-09-26 22:30:04,057 - INFO - Extracted image 0 from page 90 with OCR text length 0
+2025-09-26 22:30:04,347 - INFO - Extracted image 1 from page 90 with OCR text length 0
+2025-09-26 22:30:04,698 - INFO - Extracted image 2 from page 90 with OCR text length 0
+2025-09-26 22:30:04,944 - INFO - Extracted image 0 from page 91 with OCR text length 0
+2025-09-26 22:30:05,263 - INFO - Extracted image 1 from page 91 with OCR text length 0
+2025-09-26 22:30:05,502 - INFO - Extracted image 2 from page 91 with OCR text length 0
+2025-09-26 22:30:05,843 - INFO - Extracted image 0 from page 97 with OCR text length 0
+2025-09-26 22:30:06,220 - INFO - Extracted image 1 from page 97 with OCR text length 0
+2025-09-26 22:30:06,566 - INFO - Extracted image 0 from page 102 with OCR text length 0
+2025-09-26 22:30:06,828 - INFO - Extracted image 1 from page 102 with OCR text length 0
+2025-09-26 22:30:07,083 - INFO - Extracted image 0 from page 103 with OCR text length 0
+2025-09-26 22:30:07,425 - INFO - Extracted image 0 from page 104 with OCR text length 0
+2025-09-26 22:30:07,693 - INFO - Extracted image 1 from page 104 with OCR text length 0
+2025-09-26 22:30:08,137 - INFO - Extracted image 0 from page 105 with OCR text length 0
+2025-09-26 22:30:08,636 - INFO - Extracted image 1 from page 105 with OCR text length 0
+2025-09-26 22:30:08,881 - INFO - Extracted image 0 from page 106 with OCR text length 0
+2025-09-26 22:30:09,175 - INFO - Extracted image 0 from page 111 with OCR text length 0
+2025-09-26 22:30:09,495 - INFO - Extracted image 0 from page 112 with OCR text length 0
+2025-09-26 22:30:09,760 - INFO - Extracted image 0 from page 113 with OCR text length 0
+2025-09-26 22:30:09,774 - INFO - Extracted 65 images with OCR.
+2025-09-26 22:30:11,503 - INFO - Loaded 119 pages from PDF.
+2025-09-26 22:30:11,523 - INFO - Split into 119 text chunks.
+2025-09-26 22:30:11,524 - INFO - Enriched 119 chunks with OCR and image metadata.
+2025-09-26 22:30:11,531 - INFO - Saved PDF chunk 1 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_1.pdf
+2025-09-26 22:30:11,536 - INFO - Saved PDF chunk 2 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_2.pdf
+2025-09-26 22:30:11,540 - INFO - Saved PDF chunk 3 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_3.pdf
+2025-09-26 22:30:11,543 - INFO - Saved PDF chunk 4 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_4.pdf
+2025-09-26 22:30:11,547 - INFO - Saved PDF chunk 5 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_5.pdf
+2025-09-26 22:30:11,550 - INFO - Saved PDF chunk 6 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_6.pdf
+2025-09-26 22:30:11,554 - INFO - Saved PDF chunk 7 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_7.pdf
+2025-09-26 22:30:11,558 - INFO - Saved PDF chunk 8 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_8.pdf
+2025-09-26 22:30:11,563 - INFO - Saved PDF chunk 9 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_9.pdf
+2025-09-26 22:30:11,566 - INFO - Saved PDF chunk 10 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_10.pdf
+2025-09-26 22:30:11,570 - INFO - Saved PDF chunk 11 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_11.pdf
+2025-09-26 22:30:11,573 - INFO - Saved PDF chunk 12 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_12.pdf
+2025-09-26 22:30:11,576 - INFO - Saved PDF chunk 13 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_13.pdf
+2025-09-26 22:30:11,579 - INFO - Saved PDF chunk 14 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_14.pdf
+2025-09-26 22:30:11,581 - INFO - Saved PDF chunk 15 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_15.pdf
+2025-09-26 22:30:11,584 - INFO - Saved PDF chunk 16 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_16.pdf
+2025-09-26 22:30:11,588 - INFO - Saved PDF chunk 17 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_17.pdf
+2025-09-26 22:30:11,592 - INFO - Saved PDF chunk 18 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_18.pdf
+2025-09-26 22:30:11,595 - INFO - Saved PDF chunk 19 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_19.pdf
+2025-09-26 22:30:11,599 - INFO - Saved PDF chunk 20 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_20.pdf
+2025-09-26 22:30:11,603 - INFO - Saved PDF chunk 21 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_21.pdf
+2025-09-26 22:30:11,606 - INFO - Saved PDF chunk 22 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_22.pdf
+2025-09-26 22:30:11,609 - INFO - Saved PDF chunk 23 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_23.pdf
+2025-09-26 22:30:11,612 - INFO - Saved PDF chunk 24 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_24.pdf
+2025-09-26 22:30:11,616 - INFO - Saved PDF chunk 25 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_25.pdf
+2025-09-26 22:30:11,620 - INFO - Saved PDF chunk 26 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_26.pdf
+2025-09-26 22:30:11,622 - INFO - Saved PDF chunk 27 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_27.pdf
+2025-09-26 22:30:11,625 - INFO - Saved PDF chunk 28 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_28.pdf
+2025-09-26 22:30:11,631 - INFO - Saved PDF chunk 29 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_29.pdf
+2025-09-26 22:30:11,635 - INFO - Saved PDF chunk 30 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_30.pdf
+2025-09-26 22:30:11,638 - INFO - Saved PDF chunk 31 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_31.pdf
+2025-09-26 22:30:11,641 - INFO - Saved PDF chunk 32 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_32.pdf
+2025-09-26 22:30:11,645 - INFO - Saved PDF chunk 33 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_33.pdf
+2025-09-26 22:30:11,647 - INFO - Saved PDF chunk 34 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_34.pdf
+2025-09-26 22:30:11,650 - INFO - Saved PDF chunk 35 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_35.pdf
+2025-09-26 22:30:11,653 - INFO - Saved PDF chunk 36 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_36.pdf
+2025-09-26 22:30:11,655 - INFO - Saved PDF chunk 37 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_37.pdf
+2025-09-26 22:30:11,659 - INFO - Saved PDF chunk 38 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_38.pdf
+2025-09-26 22:30:11,662 - INFO - Saved PDF chunk 39 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_39.pdf
+2025-09-26 22:30:11,667 - INFO - Saved PDF chunk 40 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_40.pdf
+2025-09-26 22:30:11,670 - INFO - Saved PDF chunk 41 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_41.pdf
+2025-09-26 22:30:11,674 - INFO - Saved PDF chunk 42 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_42.pdf
+2025-09-26 22:30:11,677 - INFO - Saved PDF chunk 43 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_43.pdf
+2025-09-26 22:30:11,681 - INFO - Saved PDF chunk 44 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_44.pdf
+2025-09-26 22:30:11,684 - INFO - Saved PDF chunk 45 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_45.pdf
+2025-09-26 22:30:11,687 - INFO - Saved PDF chunk 46 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_46.pdf
+2025-09-26 22:30:11,690 - INFO - Saved PDF chunk 47 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_47.pdf
+2025-09-26 22:30:11,694 - INFO - Saved PDF chunk 48 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_48.pdf
+2025-09-26 22:30:11,699 - INFO - Saved PDF chunk 49 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_49.pdf
+2025-09-26 22:30:11,702 - INFO - Saved PDF chunk 50 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_50.pdf
+2025-09-26 22:30:11,704 - INFO - Saved PDF chunk 51 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_51.pdf
+2025-09-26 22:30:11,708 - INFO - Saved PDF chunk 52 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_52.pdf
+2025-09-26 22:30:11,712 - INFO - Saved PDF chunk 53 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_53.pdf
+2025-09-26 22:30:11,715 - INFO - Saved PDF chunk 54 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_54.pdf
+2025-09-26 22:30:11,718 - INFO - Saved PDF chunk 55 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_55.pdf
+2025-09-26 22:30:11,723 - INFO - Saved PDF chunk 56 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_56.pdf
+2025-09-26 22:30:11,727 - INFO - Saved PDF chunk 57 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_57.pdf
+2025-09-26 22:30:11,744 - INFO - Saved PDF chunk 58 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_58.pdf
+2025-09-26 22:30:11,780 - INFO - Saved PDF chunk 59 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_59.pdf
+2025-09-26 22:30:11,804 - INFO - Saved PDF chunk 60 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_60.pdf
+2025-09-26 22:30:11,808 - INFO - Saved PDF chunk 61 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_61.pdf
+2025-09-26 22:30:11,813 - INFO - Saved PDF chunk 62 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_62.pdf
+2025-09-26 22:30:11,824 - INFO - Saved PDF chunk 63 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_63.pdf
+2025-09-26 22:30:11,828 - INFO - Saved PDF chunk 64 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_64.pdf
+2025-09-26 22:30:11,830 - INFO - Saved PDF chunk 65 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_65.pdf
+2025-09-26 22:30:11,833 - INFO - Saved PDF chunk 66 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_66.pdf
+2025-09-26 22:30:11,836 - INFO - Saved PDF chunk 67 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_67.pdf
+2025-09-26 22:30:11,840 - INFO - Saved PDF chunk 68 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_68.pdf
+2025-09-26 22:30:11,842 - INFO - Saved PDF chunk 69 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_69.pdf
+2025-09-26 22:30:11,845 - INFO - Saved PDF chunk 70 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_70.pdf
+2025-09-26 22:30:11,848 - INFO - Saved PDF chunk 71 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_71.pdf
+2025-09-26 22:30:11,852 - INFO - Saved PDF chunk 72 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_72.pdf
+2025-09-26 22:30:11,856 - INFO - Saved PDF chunk 73 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_73.pdf
+2025-09-26 22:30:11,860 - INFO - Saved PDF chunk 74 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_74.pdf
+2025-09-26 22:30:11,863 - INFO - Saved PDF chunk 75 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_75.pdf
+2025-09-26 22:30:11,867 - INFO - Saved PDF chunk 76 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_76.pdf
+2025-09-26 22:30:11,870 - INFO - Saved PDF chunk 77 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_77.pdf
+2025-09-26 22:30:11,873 - INFO - Saved PDF chunk 78 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_78.pdf
+2025-09-26 22:30:11,876 - INFO - Saved PDF chunk 79 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_79.pdf
+2025-09-26 22:30:11,880 - INFO - Saved PDF chunk 80 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_80.pdf
+2025-09-26 22:30:11,883 - INFO - Saved PDF chunk 81 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_81.pdf
+2025-09-26 22:30:11,886 - INFO - Saved PDF chunk 82 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_82.pdf
+2025-09-26 22:30:11,890 - INFO - Saved PDF chunk 83 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_83.pdf
+2025-09-26 22:30:11,893 - INFO - Saved PDF chunk 84 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_84.pdf
+2025-09-26 22:30:11,897 - INFO - Saved PDF chunk 85 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_85.pdf
+2025-09-26 22:30:11,900 - INFO - Saved PDF chunk 86 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_86.pdf
+2025-09-26 22:30:11,904 - INFO - Saved PDF chunk 87 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_87.pdf
+2025-09-26 22:30:11,907 - INFO - Saved PDF chunk 88 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_88.pdf
+2025-09-26 22:30:11,909 - INFO - Saved PDF chunk 89 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_89.pdf
+2025-09-26 22:30:11,911 - INFO - Saved PDF chunk 90 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_90.pdf
+2025-09-26 22:30:11,914 - INFO - Saved PDF chunk 91 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_91.pdf
+2025-09-26 22:30:11,917 - INFO - Saved PDF chunk 92 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_92.pdf
+2025-09-26 22:30:11,920 - INFO - Saved PDF chunk 93 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_93.pdf
+2025-09-26 22:30:11,924 - INFO - Saved PDF chunk 94 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_94.pdf
+2025-09-26 22:30:11,927 - INFO - Saved PDF chunk 95 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_95.pdf
+2025-09-26 22:30:11,930 - INFO - Saved PDF chunk 96 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_96.pdf
+2025-09-26 22:30:11,933 - INFO - Saved PDF chunk 97 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_97.pdf
+2025-09-26 22:30:11,936 - INFO - Saved PDF chunk 98 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_98.pdf
+2025-09-26 22:30:11,939 - INFO - Saved PDF chunk 99 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_99.pdf
+2025-09-26 22:30:11,942 - INFO - Saved PDF chunk 100 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_100.pdf
+2025-09-26 22:30:11,946 - INFO - Saved PDF chunk 101 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_101.pdf
+2025-09-26 22:30:11,948 - INFO - Saved PDF chunk 102 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_102.pdf
+2025-09-26 22:30:11,951 - INFO - Saved PDF chunk 103 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_103.pdf
+2025-09-26 22:30:11,953 - INFO - Saved PDF chunk 104 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_104.pdf
+2025-09-26 22:30:11,956 - INFO - Saved PDF chunk 105 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_105.pdf
+2025-09-26 22:30:11,958 - INFO - Saved PDF chunk 106 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_106.pdf
+2025-09-26 22:30:11,960 - INFO - Saved PDF chunk 107 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_107.pdf
+2025-09-26 22:30:11,964 - INFO - Saved PDF chunk 108 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_108.pdf
+2025-09-26 22:30:11,968 - INFO - Saved PDF chunk 109 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_109.pdf
+2025-09-26 22:30:11,971 - INFO - Saved PDF chunk 110 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_110.pdf
+2025-09-26 22:30:11,974 - INFO - Saved PDF chunk 111 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_111.pdf
+2025-09-26 22:30:11,977 - INFO - Saved PDF chunk 112 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_112.pdf
+2025-09-26 22:30:11,979 - INFO - Saved PDF chunk 113 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_113.pdf
+2025-09-26 22:30:11,982 - INFO - Saved PDF chunk 114 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_114.pdf
+2025-09-26 22:30:11,985 - INFO - Saved PDF chunk 115 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_115.pdf
+2025-09-26 22:30:11,989 - INFO - Saved PDF chunk 116 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_116.pdf
+2025-09-26 22:30:11,991 - INFO - Saved PDF chunk 117 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_117.pdf
+2025-09-26 22:30:11,995 - INFO - Saved PDF chunk 118 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_118.pdf
+2025-09-26 22:30:11,998 - INFO - Saved PDF chunk 119 to D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks\chunk_119.pdf
+2025-09-26 22:30:11,998 - INFO - Saved 119 enriched PDF chunks in D:\Udemy\Lang_Chain\1.2-Ollama\output\pdf_chunks
+2025-09-26 22:30:26,660 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-09-26 22:30:31,757 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-26 22:32:53,450 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-26 22:33:00,901 - INFO - Initialized HuggingFace embeddings.
+2025-09-26 22:33:07,002 - INFO - Loading faiss with AVX2 support.
+2025-09-26 22:33:07,385 - INFO - Successfully loaded faiss with AVX2 support.
+2025-09-26 22:33:07,412 - INFO - FAISS index saved to D:\Udemy\Lang_Chain\1.2-Ollama\output\faiss_index
