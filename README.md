@@ -3,6 +3,8 @@
 
 A Streamlit-based application that uses Retrieval-Augmented Generation (RAG) to answer questions about common skin problems based on a provided PDF document. The project processes a PDF, extracts text and images, performs OCR, and builds a FAISS vectorstore for retrieval, then serves a web interface for querying.
 
+![1758912761354](image/README/1758912761354.png)
+
 ## Description
 
 Skin CareBot allows users to ask questions about skin conditions, leveraging a PDF document (`Common Skin Problem.pdf`) as the knowledge base. The backend uses LangChain, FAISS, and HuggingFace embeddings, with Grok (via the Groq API) for natural language responses. Images extracted from the PDF are displayed when relevant to the query.
