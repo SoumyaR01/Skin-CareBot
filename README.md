@@ -21,7 +21,7 @@ Skin CareBot allows users to ask questions about skin conditions, leveraging a P
   - Windows: Install via [poppler](https://github.com/oschwartz10612/poppler-windows) and add to PATH
   - Linux/macOS: Install via `apt-get install poppler-utils` or `brew install poppler`
 
-## Installation
+## Installation.
 
 1. **Clone the Repository**:
    ```bash
